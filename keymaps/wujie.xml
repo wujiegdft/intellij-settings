@@ -1,0 +1,21 @@
+<keymap version="1" name="wujie" parent="$default">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl 9" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl 0" />
+  </action>
+  <action id="GotoBookmark0" />
+  <action id="GotoBookmark9" />
+  <action id="HippieCompletion" />
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+</keymap>
