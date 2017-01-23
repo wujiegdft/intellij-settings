@@ -1,7 +1,7 @@
 <scheme name="wuie 4k" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.2" />
+  <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="32" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro Semibold" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <attributes>
     <option name="TEXT">
       <value>
